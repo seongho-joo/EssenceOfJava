@@ -21,3 +21,4 @@
 
 ## 📖 현황
 - [1. 자바를 시작하기 전에](Chapter01/REAMDE.md)
+- [2. 변수](Chapter02/README.md)
