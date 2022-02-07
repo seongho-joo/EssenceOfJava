@@ -23,3 +23,4 @@
 - [2. 변수](Chapter02/README.md)
 - [3. 연산자](Chapter03/README.md)
 - [4. 조건문과 반복문](Chapter04/README.md)
+- [5. 배열](Chapter05/README.md)
