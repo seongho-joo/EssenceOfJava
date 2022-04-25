@@ -32,3 +32,4 @@
 - [5. 배열](Chapter05/README.md)
 - [6. 객체지향 프로그래밍 Ⅰ](Chapter06/README.md)
 - [7. 객체지향 프로그래밍 Ⅱ](Chapter07/README.md)
+- [8. 예외 처리](Chapter08/README.md)
